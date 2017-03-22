@@ -1,0 +1,10 @@
+opencv 関連のインストール情報メモ
+
+http://labs.eecs.tottori-u.ac.jp/sd/Member/oyamada/OpenCV/html/py_tutorials/py_setup/py_setup_in_fedora/py_setup_in_fedora.html#install-opencv-python-in-fedora
+参照
+
+yum install gtk2-devel
+yum install libdc1394-devel
+yum install libv4l-devel
+yum install ffmpeg-devel
+yum install gstreamer-plugins-base-devel
